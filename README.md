@@ -1,2 +1,4 @@
-# stm32f4_dev_board
-STM32F405RGT6 Development Board
+# STM32F405RGT6 Development Board KiCAD Design Files
+
+## Introduction
+This repository contains a development board for STM32F405RGT6 microcontroller.
