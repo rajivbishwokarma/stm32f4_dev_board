@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains a development board for STM32F405RGT6 microcontroller.
 
-![Complete Schematic Diagram](./images/complete.png)
+![[Complete Schematic Diagram](STM32F4_REV1.pdf)](./images/complete.png)
 
 ![Microcontroller](./images/complete.png)
 
